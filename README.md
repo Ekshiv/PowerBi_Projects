@@ -1,2 +1,2 @@
 # PowerBi_Projects
-This repo contains all projects related to Power-Bi tool.
+This repo contains all projects related to PowerBi tool.
