@@ -5,8 +5,9 @@ This is the project to generate Sales Insight for the Atliq Hardware company.
 ### Data Analysis using Mysql
 
  These are the queries performed to analyse the Sale data.
-
-<img src = "X:\PowerBi_Projects\1-SalesInsight\Images\SQL_analysis.png"> </img>
+![](X:/PowerBi_Projects/1-SalesInsight/Images/SQL_analysis.png)
+change
+<img src = "X:/PowerBi_Projects/1-SalesInsight/Images/SQL_analysis.png"> </img>
 
 __Conclusion to this analysis__:
 
