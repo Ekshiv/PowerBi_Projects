@@ -6,7 +6,7 @@ This is the project to generate Sales Insight for the Atliq Hardware company.
 
 These are the queries performed to analyze the Sale data.
 
-![SQL Analysis](1-SalesInsight/Images/SQL_analysis.png)
+![SQL Analysis](/1-SalesInsight/Images/SQL_analysis.png)
 
 __Conclusion to this analysis__:
 
