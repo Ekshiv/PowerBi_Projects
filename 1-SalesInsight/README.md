@@ -1,4 +1,4 @@
-## Data Analysis Project: Sales Insight
+# Data Analysis Project: Sales Insight
 
 This is the project to generate Sales Insight for the Atliq Hardware company.
 
