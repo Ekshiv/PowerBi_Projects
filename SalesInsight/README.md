@@ -32,7 +32,7 @@ _2- You can download project material by [clicking here](https://codebasics.io/r
 
 _3- Learn and apply the steps side-by-side through this [video](https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
 
-## Acknowledgement and Ownership
+## Acknowledgement 👍 and Ownership 👑
 
 ✨ Special thanks to [codebasic](https://codebasics.io/) for providing a wonderful and convenient way to learn and implement this project. 👏
 
