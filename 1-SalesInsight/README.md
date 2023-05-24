@@ -1,10 +1,10 @@
 # Sales Insight
 
-This is the project to generate Sales Insight for the Atliq Hardware company.
+This is the project to generate Sales Insight for the Atliq Hardware company, so that it can keep track to core business KPI's like revenue, profit, sales, compare regional performance and analyze product-level trend and forecast and also can indentify high value customers.
 
 ## Data Analysis using MySQL
 
-These are the queries performed to analyze the Sale data.
+These are various queries performed to analyze the Sale data.
 
 ![SQL_analysis](https://github.com/Ekshiv/PowerBi_Projects/assets/99724929/b7132270-fbf4-4176-b5ab-912306cb341f)
 
@@ -23,4 +23,4 @@ _4- There are some instances where sales_amount is 0 and -1._
 
 ![Sales_amt_issue](https://github.com/Ekshiv/PowerBi_Projects/assets/99724929/17e24118-7fe6-495f-b8eb-4e7b1df34ee4)
 
-<p align="right">[back to top]</p>
+
