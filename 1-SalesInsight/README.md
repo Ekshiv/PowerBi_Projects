@@ -28,15 +28,16 @@ Follow these steps to get the project data and work along side-by-side:
 
 _1- Follow the step in this video to install MySQL on your local computer [video](https://www.youtube.com/watch?v=WuBcTJnIuzo)
 
-_2- You can download dataset and project by [clicking here](https://codebasics.io/resources/sales-insights-data-analysis-project).
+_2- You can download project material by [clicking here](https://codebasics.io/resources/sales-insights-data-analysis-project).
 
 _3- Learn and apply the steps side-by-side through this [video](https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
 
 ## Acknowledgement and Ownership
 
-✨ A special thanks to [codebasic](https://codebasics.io/) who has provided such a wonderfull and convieniant way to learn this project.👏
+✨ Special thanks to [codebasic](https://codebasics.io/) for providing a wonderful and convenient way to learn and implement this project. 👏
 
-✅ This project is not owned by me but instead i learned from codebasic youtube videos and implemented those teachings to produce my own result.
+✅ This project is based on the teachings from codebasic YouTube videos. **I do not claim ownership of this project** but have implemented the concepts taught to produce my own results.
 
+Feel free to explore and utilize the insights gained from this Sales Insight project. If you have any questions or feedback, please reach out! 📧
 
 
