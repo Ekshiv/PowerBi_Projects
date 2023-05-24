@@ -23,14 +23,14 @@ Welcome to the HR Analysis Report project! This README file will provide you wit
    - Example: If a majority of employees take 2 days WFH, we can assign other employees to work from the office.
    - Metric: WFH trend analysis (%), presence trend analysis (%).
 
-## Metrics
+## Metrics 📊
 
 1. Total Working Days: Measure the number of working days in a given period.
 2. Total Employee Attendance: Quantify the overall attendance of employees (% and value).
 3. Employee Absence: Calculate the percentage and value of employee absences, including sick leave.
 4. Presence, WFH, and Sick Leave Trends: Analyze the trends in presence (%), WFH (%), and sick leave (%).
 
-## Insights
+## Insights 💡
 
 1. Percentage of Present Employees:
    - Insights: Plan client software release dates carefully, considering months with lower workforce availability.
@@ -51,7 +51,7 @@ _1- You can download project material by [clicking here](https://codebasics.io/r
 
 _2- Learn and apply the steps side-by-side through this [video](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuVQccZa7yFwK3ltoGQOWbM)
 
-## Acknowledgement and Ownership
+## Acknowledgement 👍 and Ownership 👑
 
 ✨ Special thanks to [codebasic](https://codebasics.io/) for providing a wonderful and convenient way to learn and implement this project. 👏
 
