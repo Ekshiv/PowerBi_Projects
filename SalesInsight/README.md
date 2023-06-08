@@ -23,6 +23,9 @@ _4- There are some instances where sales_amount is 0 and -1._
 
 ![Sales_amt_issue](https://github.com/Ekshiv/PowerBi_Projects/assets/99724929/17e24118-7fe6-495f-b8eb-4e7b1df34ee4)
 
+## Screenshot 📸
+![Executive Summary](https://github.com/Ekshiv/PowerBi_Projects/assets/99724929/253f0992-b80f-4026-b168-4a96b1b93e76)
+
 ## How to get started? 🚀
 Follow these steps to get the project data and work along side-by-side:
 
