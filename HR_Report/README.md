@@ -44,6 +44,9 @@ Welcome to the HR Analysis Report project! This README file will provide you wit
    - Insights: Implement routine/seasonal measures to address seasonal influenza or flu.
    - Metric: SL %
 
+## Screenshot 📸
+![Presence Insight](https://github.com/Ekshiv/PowerBi_Projects/assets/99724929/f0644ab2-1232-4991-8142-25e682d8522c)
+
 ## How to get started? 🚀
 Follow these steps to get the project data and work along side-by-side:
 
