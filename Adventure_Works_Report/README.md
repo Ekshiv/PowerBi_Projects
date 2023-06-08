@@ -1,6 +1,8 @@
-# Adventure Works Sales Report 📊
+# 🌟Adventure Works Sales Report🌟 📊
 
 Welcome to the Adventure Works Sales Report project! This README file provides an overview of the project's objectives, the tasks completed, and the key takeaways and learnings from the journey. Let's dive in and explore the exciting world of data analysis! 💫
+
+🎥 To watch the presentation please ![click here](https://www.linkedin.com/posts/shivam09singh_howtopowerbi-onestopdata-codebasic-activity-7065756027706572801-wi2M?utm_source=share&utm_medium=member_desktop) 
 
 ## Objective 🎯
 
@@ -8,7 +10,7 @@ The objective of this project was to design and deliver a professional-quality, 
 
 ## What I Did 👨‍💻
 
-During this project, I had the privilege of stepping into the role of Lead Business Intelligence Analyst for Adventure Works Cycles. Here's a summary of the tasks I completed:
+During this project, I had the privilege of stepping into the role of Lead Business Intelligence Analyst for Adventure Works Cycles.Here's a summary of the tasks I completed:
 
 1️⃣ Connecting & Transforming Data 🔄:
 - Explored Power BI Query Editor for data connections and basic transformations.

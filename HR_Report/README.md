@@ -1,6 +1,8 @@
 # 🌟 HR Analysis Report 🌟
 
-Welcome to the HR Analysis Report project! This README file will provide you with a concise overview of the project's objectives, the actions taken, the key learnings, and the metrics used to quantify our findings.
+Welcome to the HR Analysis Report project! This README file will provide you with a concise overview of the project's objectives, the actions taken, the key learnings, and the metrics used to quantify our findings.💫
+
+🎥 To watch the presentation please ![click here](https://www.linkedin.com/posts/shivam09singh_howtopowerbi-onestopdata-codebasic-activity-7065756027706572801-wi2M?utm_source=share&utm_medium=member_desktop) 
 
 ## Objectives 🎯
 
