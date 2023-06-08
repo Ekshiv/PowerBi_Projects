@@ -2,7 +2,7 @@
 
 This is the project to generate Sales Insight for the  (fictitious) Atliq Hardware company, so that it can keep track to core business KPI's like revenue, profit, sales, compare regional performance and analyze product-level trend and forecast and also can indentify high value customers.💫
 
-🎥 To watch the presentation please ![click here](https://www.linkedin.com/posts/shivam09singh_howtopowerbi-onestopdata-codebasic-activity-7065756027706572801-wi2M?utm_source=share&utm_medium=member_desktop) 
+🎥 To watch the presentation please [click here](https://www.linkedin.com/posts/shivam09singh_howtopowerbi-onestopdata-codebasic-activity-7065756027706572801-wi2M?utm_source=share&utm_medium=member_desktop) 
 
 ## Data Analysis using MySQL
 
