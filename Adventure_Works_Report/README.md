@@ -37,6 +37,13 @@ During this project, I had the privilege of stepping into the role of Lead Busin
 - Experimented with "What-If" parameters and managing roles.
 - Explored best practices for effective data visualization.
 
+## Screenshot 📸
+![Executive Summary](https://github.com/Ekshiv/PowerBi_Projects/assets/99724929/dfd2a541-06ac-4b6a-81e2-34bac07d91bb)
+
+![Product Performance](https://github.com/Ekshiv/PowerBi_Projects/assets/99724929/79d160b3-7e53-4165-801e-51a50e76ba7b)
+
+![Customer Details](https://github.com/Ekshiv/PowerBi_Projects/assets/99724929/3d788df2-f34f-47c2-9a7a-107326cab826)
+
 ## Learnings and Takeaways 🚀
 
 This Adventure Works project equipped me with a comprehensive understanding of Power BI and the confidence to apply these concepts to future projects. Here are the key takeaways from the project:
